@@ -1,0 +1,742 @@
+Category,Level1,Level2,Level3,Level4,Level5,COND1,COND2,COND3,COND4
+GU:1 Subdoligranulum sp. 4_3_54A2FAA,Firmicutes,Clostridiales,Ruminococcaceae,Subdoligranulum,GU:1,43,146,122,50
+GU:10 Bilophila wadsworthia,Proteobacteria,Desulfovibrionales,Desulfovibrionaceae,Bilophila,GU:10,42,61,286,177
+GU:100 Roseburia sp. CAG:100,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:100,109,828,78,319
+GU:1000 Clostridium sp. CAG:1000,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1000,0,0,2,2
+GU:1001 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1001,0,6,0,0
+GU:1008 Parvimonas,Firmicutes,Clostridiales,Peptoniphilaceae,Parvimonas,GU:1008,0,1,0,0
+GU:101 NA,,,,,GU:101,15,16,177,47
+GU:1013 Clostridium sp. CAG:1013,Firmicutes,Clostridiales,Clostridiaceae,Clostridium,GU:1013,0,0,0,0
+GU:102 Firmicutes bacterium CAG:102,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:102,54,104,112,90
+GU:1024 Clostridium sp. CAG:1024,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1024,0,0,0,0
+GU:103 Firmicutes bacterium CAG:103,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:103,91,214,173,99
+GU:1031 Prevotella sp. CAG:1031,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1031,0,0,0,0
+GU:104 Ruminococcus lactaris,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:104,73,648,758,436
+GU:1049 NA,,,,,GU:1049,0,0,0,0
+GU:105 Dorea sp. CAG:105,Firmicutes,Clostridiales,Lachnospiraceae,Dorea,GU:105,39,60,43,40
+GU:1050 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:1050,1,9,99,2
+GU:1058 Prevotella sp. CAG:1058,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1058,0,0,0,0
+GU:1059 Bifidobacterium breve,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:1059,1,1,0,0
+GU:106 Faecalibacterium 3,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:106,762,854,1033,973
+GU:1060 Bacteroides sp. CAG:1060,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:1060,0,0,0,0
+GU:1061 Porphyromonas somerae,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Porphyromonas,GU:1061,0,0,0,0
+GU:107 Adlercreutzia equolifaciens,Actinobacteria,Eggerthellales,Eggerthellaceae,Adlercreutzia,GU:107,7,25,7,6
+GU:1075 NA,,,,,GU:1075,0,0,0,0
+GU:1076 Bacteroides sp. CAG:1076,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:1076,0,3,1,2
+GU:108 Ruminococcus bromii,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:108,2054,3970,1988,4423
+GU:1088 Methanoculleus sp. CAG:1088 & Candidatus Methanomethylophilus alvus,Euryarchaeota,unclassified Euryarchaeota,Methanomicrobiaceae,Methanoculleus,GU:1088,0,0,0,0
+GU:109 Bacteroides eggerthii,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:109,2415,1450,510,668
+GU:1092 Prevotella sp. CAG:1092,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1092,0,1,0,0
+GU:11 Oscillibacter sp. KLE 1728 / KLE 1745 / VE202-24,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:11,256,295,138,304
+GU:110 Firmicutes bacterium CAG:110,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:110,248,486,2844,253
+GU:1103 Dialister,Firmicutes,Selenomonadales,Veillonellaceae,Dialister,GU:1103,6,6,139,1355
+GU:1107 Eubacterium desmolans,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:1107,2,2,1,25
+GU:111 NA,,,,,GU:111,30,44,0,2
+GU:1117 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1117,112,1,0,1
+GU:112 Veillonella parvula,Firmicutes,Selenomonadales,Veillonellaceae,Veillonella,GU:112,22,26,88,75
+GU:1121 NA,,,,,GU:1121,0,0,0,0
+GU:1124 Prevotella sp. CAG:1124,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1124,0,1,4,0
+GU:113 Parabacteroides goldsteinii,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:113,24,120,43,112
+GU:1137 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:1137,0,0,1,0
+GU:1138 Faecalibacterium 7,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:1138,0,0,0,0
+GU:1139 NA,,,,,GU:1139,7,5,16,1
+GU:114 Firmicutes bacterium CAG:114,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:114,23,54,58,52
+GU:115 Eubacterium sp. CAG:115,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:115,170,229,152,63
+GU:1159 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1159,0,1,0,33
+GU:116 Paraprevotella clara,Bacteroidetes,Bacteroidales,Prevotellaceae,Paraprevotella,GU:116,450,496,1309,326
+GU:1168 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:1168,5,2,59,11
+GU:117 uncultured Faecalibacterium sp.,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:117,258,38,22,17
+GU:118 Coprobacter sp. 177,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Coprobacter,GU:118,25,17,492,106
+GU:1185 Prevotella sp. CAG:1185,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1185,3,29,5,3
+GU:1189 Clostridiales,Firmicutes,Clostridiales,,,GU:1189,1,1,0,0
+GU:119 Bifidobacterium adolescentis,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:119,387,864,193,948
+GU:1193 Clostridium sp. CAG:1193,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1193,0,32,7,0
+GU:1196 Firmicutes,Firmicutes,,,,GU:1196,11,0,0,0
+GU:12 Eubacterium hallii,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:12,1182,541,657,824
+GU:120 Bacteroides stercoris,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:120,2839,1042,1546,1522
+GU:121 Ruminococcaceae bacterium LM158,Firmicutes,Clostridiales,Ruminococcaceae,unclassified Ruminococcaceae,GU:121,384,740,915,463
+GU:1218 NA,,,,,GU:1218,0,0,0,0
+GU:1219 Clostridium sp. CAG:1219,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1219,0,0,0,0
+GU:122 Clostridium sp. CAG:122,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:122,87,105,66,14
+GU:1228 Firmicutes,Firmicutes,,,,GU:1228,0,0,0,0
+GU:123 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:123,8,37,4,37
+GU:124 Firmicutes bacterium CAG:124,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:124,21,611,1994,72
+GU:125 Faecalibacterium 2,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:125,1199,1444,1565,923
+GU:126 Ruminococcus gnavus,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:126,92,41,2,127
+GU:127 Clostridium sp. CAG:127,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:127,1552,2126,786,1715
+GU:1273 Clostridium clostridioforme,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:1273,1,0,1,1
+GU:128 Faecalibacterium 4,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:128,1381,1418,3180,623
+GU:1289 NA,,,,,GU:1289,1,73,1,0
+GU:129 Firmicutes bacterium CAG:129 & uncultured Collinsella sp.,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella,GU:129,166,295,176,47
+GU:1295 Bacteroides,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:1295,1,0,0,0
+GU:13 Roseburia intestinalis,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:13,860,520,1032,802
+GU:130 Bacteroides nordii,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:130,5,14,18,84
+GU:131 Coprococcus sp. CAG:131 & Coprococcus sp. ART55/1,Firmicutes,Clostridiales,Lachnospiraceae,Coprococcus,GU:131,350,3846,1996,1343
+GU:132 Clostridium clostridioforme,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:132,10,23,1,32
+GU:1320 Prevotella sp. CAG:1320,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1320,0,0,0,0
+GU:1329 Intestinibacter bartlettii,Firmicutes,Clostridiales,Peptostreptococcaceae,Intestinibacter,GU:1329,26,71,83,108
+GU:133 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:133,116,31,798,34
+GU:134 Clostridium symbiosum,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:134,4,9,4,12
+GU:1348 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:1348,0,153,2,1
+GU:135 Sutterella wadsworthensis 1,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:135,182,375,204,510
+GU:1353 Collinsella stercoris,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella,GU:1353,1,1,23,1
+GU:136 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:136,30,51,16,10
+GU:137 Firmicutes bacterium CAG:137,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:137,43,40,209,81
+GU:138 Clostridium sp. CAG:138,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:138,704,867,4817,29
+GU:1382 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1382,42,2,0,0
+GU:1383 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:1383,0,0,0,0
+GU:139 Parasutterella excrementihominis 2,Proteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,GU:139,26,5,72,3
+GU:14 Odoribacter splanchnicus,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Odoribacter,GU:14,1076,1037,1812,1004
+GU:140 Coprococcus catus,Firmicutes,Clostridiales,Lachnospiraceae,Coprococcus,GU:140,157,418,370,221
+GU:141 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:141,98,30,34,7
+GU:142 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:142,711,692,1013,670
+GU:1427 Eggerthella sp. CAG:1427,Actinobacteria,Eggerthellales,Eggerthellaceae,Eggerthella,GU:1427,11,10,0,36
+GU:143 Clostridiales,Firmicutes,Clostridiales,,,GU:143,122,89,169,235
+GU:1430 NA,,,,,GU:1430,0,9,2,0
+GU:1435 Corallococcus sp. CAG:1435,Proteobacteria,Myxococcales,Myxococcaceae,Corallococcus,GU:1435,0,0,0,0
+GU:144 Bacteroides sp. CAG:144,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:144,23,111,191,133
+GU:145 Firmicutes bacterium CAG:145,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:145,0,80,22,11
+GU:146 Eubacterium sp. CAG:146,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:146,39,86,22,15
+GU:147 Blautia hydrogenotrophica,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:147,38,2,0,0
+GU:148 Streptococcus parasanguinis,Firmicutes,Lactobacillales,Streptococcaceae,Streptococcus,GU:148,24,199,106,91
+GU:149 Clostridium saccharolyticum,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:149,2,2,11,0
+GU:1492 NA,,,,,GU:1492,0,56,0,0
+GU:15 Roseburia inulinivorans,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:15,1629,1124,2975,1963
+GU:150 Alistipes,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:150,29,16,2,52
+GU:151 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:151,272,639,133,225
+GU:152 Firmicutes,Firmicutes,,,,GU:152,0,162,0,9
+GU:153 Oscillibacter,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:153,13,73,32,40
+GU:154 Akkermansia muciniphila,Verrucomicrobia,Verrucomicrobiales,Verrucomicrobiaceae,Akkermansia,GU:154,47,279,717,1098
+GU:155 Oscillibacter sp. CAG:155,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:155,15,27,10,15
+GU:156 Eubacterium sp. CAG:156,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:156,124,172,480,12
+GU:157 Alistipes sp. CAG:157,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:157,190,4,0,432
+GU:1579 NA,,,,,GU:1579,5,0,0,0
+GU:158 Bacteroides cellulosilyticus,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:158,71,2289,144,1344
+GU:159 Clostridiales,Firmicutes,Clostridiales,,,GU:159,70,767,37,342
+GU:1596 Clostridiales,Firmicutes,Clostridiales,,,GU:1596,0,0,0,0
+GU:16 Roseburia hominis,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:16,319,578,1534,617
+GU:160 Bacteroides clarus,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:160,43,291,168,130
+GU:161 Eubacterium sp. CAG:161,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:161,21,88,52,90
+GU:162 Bacteroides coprocola,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:162,329,2911,816,51
+GU:163 Clostridiales,Firmicutes,Clostridiales,,,GU:163,637,878,1099,313
+GU:164 Prevotella copri,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:164,4974,54094,16705,28262
+GU:165 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:165,198,169,431,123
+GU:166 Collinsella aerofaciens,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella,GU:166,146,314,103,175
+GU:167 Clostridium sp. CAG:167,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:167,70,202,65,4
+GU:168 Butyricimonas,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas,GU:168,47,57,45,102
+GU:169 Clostridium sp. CAG:169,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:169,50,25,1,1
+GU:17 Ruminococcus sp. CAG:17,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:17,302,850,549,546
+GU:170 Firmicutes bacterium CAG:170,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:170,213,395,8,1
+GU:171 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:171,24,45,0,37
+GU:172 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:172,37,66,840,191
+GU:173 Clostridiales,Firmicutes,Clostridiales,,,GU:173,117,108,57,113
+GU:174 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:174,48,45,25,86
+GU:175 uncultured Faecalibacterium sp.,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:175,98,18,28,3
+GU:176 Firmicutes bacterium CAG:176,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:176,385,816,2733,106
+GU:177 Ruminococcus sp. CAG:177,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:177,1085,610,736,930
+GU:1770 Roseburia,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:1770,0,0,2,1
+GU:178 NA,,,,,GU:178,44,64,3,27
+GU:179 unclassified Ruminococcaceae,Firmicutes,Clostridiales,Ruminococcaceae,unclassified Ruminococcaceae,GU:179,37,1,3,86
+GU:18 Roseburia sp. CAG:18,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:18,11473,6182,1861,729
+GU:180 Eubacterium sp. CAG:180,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:180,1958,1529,1373,950
+GU:181 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:181,4,0,0,3
+GU:182 Roseburia sp. CAG:182,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:182,38,16,528,82
+GU:1822 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:1822,0,3,0,6
+GU:183 Erysipelatoclostridium ramosum,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,GU:183,110,5,6,284
+GU:184 NA,,,,,GU:184,2,28,5,0
+GU:185 NA,,,,,GU:185,13,54,67,42
+GU:186 Methanobrevibacter smithii 1,Euryarchaeota,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,GU:186,50,478,44,5
+GU:187 NA,,,,,GU:187,72,37,22,14
+GU:188 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:188,368,359,344,76
+GU:189 Bacteroides salyersiae,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:189,21,324,25,1102
+GU:19 Coprococcus comes,Firmicutes,Clostridiales,Lachnospiraceae,Coprococcus,GU:19,2429,1104,1264,1383
+GU:190 Hungatella hathewayi 2,Firmicutes,Clostridiales,Clostridiaceae,Hungatella,GU:190,1,6,8,3
+GU:191 Eggerthellaceae,Actinobacteria,Eggerthellales,Eggerthellaceae,,GU:191,29,12,31,2
+GU:192 Eubacterium sp. CAG:192,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:192,180,90,17,0
+GU:193 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:193,354,204,769,72
+GU:194 Firmicutes bacterium CAG:194,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:194,544,178,51,28
+GU:195 Faecalibacterium 1,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:195,1248,1206,653,304
+GU:196 Acinetobacter sp. CAG:196,Proteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,GU:196,201,0,357,1
+GU:197 Roseburia sp. CAG:197,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:197,5,28,432,22
+GU:198 Oscillibacter,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:198,172,317,222,214
+GU:199 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:199,7,87,65,63
+GU:2 Parabacteroides distasonis,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:2,1031,1088,3232,1930
+GU:20 Barnesiella intestinihominis,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Barnesiella,GU:20,1042,1897,4950,1798
+GU:200 Alistipes senegalensis,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:200,20,27,37,88
+GU:201 NA,,,,,GU:201,14,14,2,48
+GU:202 Eubacterium sp. CAG:202,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:202,2116,1588,3065,70
+GU:203 Bacteroides finegoldii,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:203,60,28,228,2667
+GU:204 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:204,61,200,196,21
+GU:205 Senegalimassilia anaerobia,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Senegalimassilia,GU:205,17,5,15,0
+GU:206 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:206,36,171,113,137
+GU:207 Phascolarctobacterium sp. CAG:207,Firmicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,GU:207,149,624,834,716
+GU:208 Proteobacteria,Proteobacteria,,,,GU:208,212,587,5,318
+GU:209 Eggerthella sp. CAG:209,Actinobacteria,Eggerthellales,Eggerthellaceae,Eggerthella,GU:209,25,8,16,55
+GU:21 Bacteroides caccae,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:21,619,1502,1552,2554
+GU:210 Sutterella wadsworthensis 2,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:210,89,2,415,45
+GU:211 Bacteroides plebeius,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:211,23,1244,2394,10
+GU:212 Firmicutes bacterium CAG:212,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:212,17,9,5,7
+GU:213 Ruminococcus callidus,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:213,236,100,116,98
+GU:214 Oscillibacter,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:214,39,60,24,35
+GU:215 Lachnospiraceae bacterium 1_4_56FAA & CAG:215,Firmicutes,Clostridiales,Lachnospiraceae,unclassified Lachnospiraceae,GU:215,2,2,0,21
+GU:216 Coprobacillus sp. D6 & sp. 29_1,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,GU:216,0,26,2,3
+GU:217 Clostridium sp. CAG:217,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:217,428,364,298,176
+GU:218 Dialister invisus,Firmicutes,Selenomonadales,Veillonellaceae,Dialister,GU:218,1646,1791,1844,791
+GU:2184 NA,,,,,GU:2184,71,2,24,0
+GU:2189 Clostridiales,Firmicutes,Clostridiales,,,GU:2189,0,0,2,0
+GU:219 Dorea longicatena,Firmicutes,Clostridiales,Lachnospiraceae,Dorea,GU:219,318,452,198,135
+GU:22 Bacteroides ovatus,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:22,4018,4192,2585,7029
+GU:220 Ruminococcaceae bacterium LM158,Firmicutes,Clostridiales,Ruminococcaceae,unclassified Ruminococcaceae,GU:220,31,24,227,10
+GU:221 Clostridium sp. CAG:221 - Clostridium sp. CAG:265,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:221,3,7,16,4
+GU:222 Bacteroides dorei,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:222,3464,2413,2732,8009
+GU:223 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:223,159,0,244,3
+GU:224 Hungatella hathewayi 1,Firmicutes,Clostridiales,Clostridiaceae,Hungatella,GU:224,1,1,6,1
+GU:225 Butyricimonas virosa,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas,GU:225,129,646,453,416
+GU:226 Clostridium sp. CAG:226,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:226,18,13,12,3
+GU:227 Firmicutes bacterium CAG:227,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:227,14,24,12,0
+GU:228 NA,,,,,GU:228,2,23,4,36
+GU:229 Firmicutes,Firmicutes,,,,GU:229,43,82,249,207
+GU:23 unclassified Bacteroidales,Bacteroidetes,Bacteroidales,unclassified Bacteroidales,unclassified Bacteroidales,GU:23,139,177,899,156
+GU:230 Clostridium sp. CAG:230,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:230,27,37,172,29
+GU:231 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:231,6,3,7,93
+GU:232 Holdemanella,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,GU:232,148,1194,1356,14
+GU:233 Parasutterella excrementihominis 1,Proteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,GU:233,463,113,8,52
+GU:234 Bifidobacterium bifidum,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:234,124,46,84,137
+GU:235 Coprobacillus sp. CAG:235,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,GU:235,719,459,605,785
+GU:236 Streptococcus thermophilus,Firmicutes,Lactobacillales,Streptococcaceae,Streptococcus,GU:236,877,520,276,514
+GU:237 Blautia sp. CAG:237,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:237,30,59,68,166
+GU:238 Firmicutes bacterium CAG:238,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:238,18,31,34,28
+GU:239 Azospirillum sp. CAG:239,Proteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,GU:239,168,40,30,127
+GU:24 Firmicutes bacterium CAG:24 & uncultured Ruminococcus sp.,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:24,843,1311,680,1475
+GU:240 Firmicutes bacterium CAG:240,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:240,20,9,43,41
+GU:241 Oscillibacter sp. CAG:241,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:241,466,145,135,128
+GU:242 Clostridium sp. CAG:242,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:242,19,11,0,2
+GU:243 unclassified Ruminococcaceae,Firmicutes,Clostridiales,Ruminococcaceae,unclassified Ruminococcaceae,GU:243,4,99,0,22
+GU:244 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:244,61,62,101,138
+GU:245 Clostridium sp. CAG:245,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:245,292,1743,260,652
+GU:246 Parabacteroides johnsonii,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:246,374,499,310,397
+GU:247 Veillonella atypica,Firmicutes,Selenomonadales,Veillonellaceae,Veillonella,GU:247,18,38,93,65
+GU:248 Eubacterium sp. CAG:248,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:248,248,668,315,65
+GU:249 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:249,33,101,16,2
+GU:25 Anaerostipes hadrus,Firmicutes,Clostridiales,Lachnospiraceae,Anaerostipes,GU:25,1511,1399,1640,1241
+GU:250 NA,,,,,GU:250,2,12,22,23
+GU:251 Eubacterium sp. CAG:251,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:251,280,697,493,1470
+GU:252 Eubacterium sp. CAG:252,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:252,29,121,35,1323
+GU:253 Clostridium sp. CAG:253,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:253,2,46,108,277
+GU:254 Ruminococcus sp. CAG:254,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:254,13,602,381,40
+GU:255 Prevotella sp. CAG:255,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:255,726,1312,1664,1846
+GU:256 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:256,70,50,26,22
+GU:257 Blautia sp. CAG:257,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:257,16,13,0,9
+GU:258 Ruminococcaceae bacterium D16,Firmicutes,Clostridiales,Ruminococcaceae,unclassified Ruminococcaceae,GU:258,8,11,5,17
+GU:259 Butyrivibrio crossotus,Firmicutes,Clostridiales,Lachnospiraceae,Butyrivibrio,GU:259,1371,4923,2265,37
+GU:26 Clostridium sp. KLE 1755 & Clostridiales bacterium VE202-27,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:26,0,4,0,4
+GU:260 Azospirillum sp. CAG:260,Proteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,GU:260,15,281,88,159
+GU:261 NA,,,,,GU:261,14,22,5,23
+GU:262 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:262,1,103,948,46
+GU:263 Bifidobacterium catenulatum & pseudocatenulatum,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:263,21,83,48,63
+GU:264 common Clostridium sp. L2-50 & sp. CAG:264,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:264,896,1525,1831,242
+GU:265 Clostridium sp. CAG:221 - Clostridium sp. CAG:265,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:265,11,9,20,11
+GU:266 Phascolarctobacterium sp. CAG:266,Firmicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,GU:266,4,9,197,629
+GU:267 Acetobacter sp. CAG:267,Proteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,GU:267,75,2,17,39
+GU:268 Alistipes sp. CAG:268,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:268,8,74,18,0
+GU:269 Clostridium sp. CAG:269,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:269,1344,516,309,927
+GU:27 Clostridium leptum,Firmicutes,Clostridiales,Ruminococcaceae,Ruminiclostridium,GU:27,32,36,16,100
+GU:270 Firmicutes bacterium CAG:270,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:270,895,164,1493,1081
+GU:271 Firmicutes,Firmicutes,,,,GU:271,80,31,33,4
+GU:272 Firmicutes bacterium CAG:272,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:272,4,19,6,55
+GU:273 Clostridium sp. CAG:273,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:273,53,46,61,5
+GU:274 Eubacterium sp. CAG:274,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:274,167,26,125,41
+GU:275 NA,,,,,GU:275,1,6,14,1
+GU:276 Anaerostipes caccae,Firmicutes,Clostridiales,Lachnospiraceae,Anaerostipes,GU:276,1,0,1,0
+GU:277 Clostridium sp. CAG:277,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:277,36,63,317,1
+GU:278 NA,,,,,GU:278,20,20,90,0
+GU:279 Prevotella sp. CAG:279,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:279,1005,1020,359,7
+GU:28 Dorea formicigenerans,Firmicutes,Clostridiales,Lachnospiraceae,Dorea,GU:28,385,389,326,317
+GU:280 Eggerthella lenta,Actinobacteria,Eggerthellales,Eggerthellaceae,Eggerthella,GU:280,1,44,3,3
+GU:282 Clostridiales,Firmicutes,Clostridiales,,,GU:282,12,22,1,1
+GU:283 NA,,,,,GU:283,60,109,212,158
+GU:284 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:284,39,265,20,23
+GU:285 Clostridiales,Firmicutes,Clostridiales,,,GU:285,51,0,0,0
+GU:286 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:286,11,45,202,39
+GU:287 Phascolarctobacterium succinatutens,Firmicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,GU:287,230,87,4,4
+GU:288 Clostridium sp. CAG:288,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:288,11,379,79,139
+GU:289 Collinsella sp. CAG:289,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella,GU:289,3,2,2,0
+GU:29 Alistipes onderdonkii,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:29,78,891,1600,96
+GU:290 Catenibacterium sp. CAG:290,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Catenibacterium,GU:290,61,406,138,2057
+GU:291 Firmicutes,Firmicutes,,,,GU:291,1,0,0,103
+GU:292 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:292,17,74,21,1
+GU:293 Candidatus Stoquefichus,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Candidatus Stoquefichus,GU:293,4,29,3,46
+GU:294 Ruminococcus,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:294,60,21,0,188
+GU:295 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:295,15,6,8,17
+GU:296 Firmicutes,Firmicutes,,,,GU:296,0,102,3,9
+GU:297 Clostridiales,Firmicutes,Clostridiales,,,GU:297,0,1,4,0
+GU:298 Eggerthella sp. CAG:298,Actinobacteria,Eggerthellales,Eggerthellaceae,Eggerthella,GU:298,6,28,16,3
+GU:299 Clostridium sp. CAG:299,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:299,6,5,12,0
+GU:3 Bacteroides uniformis,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:3,7300,7321,4060,2886
+GU:30 Lachnospiraceae bacterium x4,Firmicutes,Clostridiales,Lachnospiraceae,unclassified Lachnospiraceae,GU:30,2,5,14,2
+GU:300 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:300,3,31,5,33
+GU:301 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:301,1216,90,1498,668
+GU:302 Clostridium sp. CAG:302,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:302,432,769,510,473
+GU:303 Roseburia sp. CAG:303,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:303,71,0,11,36
+GU:305 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:305,2,15,12,11
+GU:306 Clostridium sp. CAG:306,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:306,0,117,0,0
+GU:307 Clostridium sp. CAG:307,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:307,2,6,133,582
+GU:308 Faecalitalea cylindroides,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,GU:308,32,20,47,4
+GU:309 Roseburia,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:309,126,39,121,83
+GU:31 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:31,112,99,262,97
+GU:310 Clostridium spiroforme,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,GU:310,19,9,26,41
+GU:311 NA,,,,,GU:311,0,5,25,2
+GU:312 Coraliomargarita sp. CAG:312,Verrucomicrobia,Puniceicoccales,Puniceicoccaceae,Coraliomargarita,GU:312,0,10,0,262
+GU:313 Firmicutes bacterium CAG:313,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:313,58,41,246,424
+GU:314 Subdoligranulum sp. CAG:314,Firmicutes,Clostridiales,Ruminococcaceae,Subdoligranulum,GU:314,0,484,3,0
+GU:315 Bacteroides intestinalis 1,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:315,27,608,14,46
+GU:316 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:316,320,280,204,303
+GU:317 Dorea sp. CAG:317,Firmicutes,Clostridiales,Lachnospiraceae,Dorea,GU:317,0,0,1,1
+GU:318 Butyrivibrio sp. CAG:318,Firmicutes,Clostridiales,Lachnospiraceae,Butyrivibrio,GU:318,138,78,0,1
+GU:319 NA,,,,,GU:319,0,4,1,2
+GU:32 Bacteroides faecis,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:32,503,294,1832,551
+GU:320 NA,,,,,GU:320,7,19,168,93
+GU:321 Firmicutes bacterium CAG:321,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:321,512,74,721,68
+GU:322 Bacteroides thetaiotaomicron,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:322,668,780,2062,1901
+GU:323 Erysipelotrichaceae bacterium 5_2_54FAA - Eubacterium sp. 3_1_31,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,unclassified Erysipelotrichaceae,GU:323,1,6,4,7
+GU:324 Staphylococcus sp. CAG:324,Firmicutes,Bacillales,Staphylococcaceae,Staphylococcus,GU:324,2,425,677,1
+GU:3246 Clostridiales,Firmicutes,Clostridiales,,,GU:3246,4,159,0,232
+GU:325 Acidaminococcus intestini,Firmicutes,Selenomonadales,Acidaminococcaceae,Acidaminococcus,GU:325,0,328,1,13
+GU:326 NA,,,,,GU:326,30,12,9,20
+GU:327 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:327,0,8,1,0
+GU:328 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:328,4,26,4,4
+GU:329 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:329,237,213,194,287
+GU:33 NA,,,,,GU:33,21,40,30,58
+GU:330 Faecalibacterium 8 (Ruminococcus sp. CAG:330),,,,,GU:330,18,195,60,1
+GU:331 NA,,,,,GU:331,63,47,251,14
+GU:332 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:332,61,120,109,1
+GU:333 Bacteroides coprophilus,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:333,9,1293,4,1674
+GU:334 NA,,,,,GU:334,73,267,4,51
+GU:335 Desulfovibrio piger,Proteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,GU:335,2,53,43,112
+GU:336 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:336,31,25,24,153
+GU:337 Bifidobacterium animalis,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:337,1,2,1,20
+GU:338 Cryptobacterium sp. CAG:338,Actinobacteria,Eggerthellales,Eggerthellaceae,Cryptobacterium,GU:338,0,42,2,0
+GU:339 Veillonella sp. oral taxon 158,Firmicutes,Selenomonadales,Veillonellaceae,Veillonella,GU:339,59,22,110,39
+GU:34 Faecalibacterium 8 (Ruminococcus sp. CAG:330),Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:34,3524,1870,1474,1298
+GU:340 Bacteroidales,Bacteroidetes,Bacteroidales,,,GU:340,3,218,122,64
+GU:341 Firmicutes bacterium CAG:341,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:341,359,3145,3,242
+GU:342 NA,,,,,GU:342,12,146,226,53
+GU:343 Clostridium sp. CAG:343,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:343,118,999,204,10
+GU:344 Akkermansia sp. CAG:344,Verrucomicrobia,Verrucomicrobiales,Verrucomicrobiaceae,Akkermansia,GU:344,4,0,74,6
+GU:345 Firmicutes bacterium CAG:345,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:345,0,5,1,2
+GU:347 Clostridiales,Firmicutes,Clostridiales,,,GU:347,34,47,136,55
+GU:348 Tyzzerella nexilis,Firmicutes,Clostridiales,Lachnospiraceae,Tyzzerella,GU:348,1,3,0,2
+GU:349 Clostridium sp. CAG:349,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:349,6,243,45,890
+GU:35 Haemophilus parainfluenzae,Proteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,GU:35,51,83,200,326
+GU:350 Butyricimonas virosa,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas,GU:350,65,319,179,40
+GU:351 Sutterella sp. CAG:351,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:351,8,18,14,0
+GU:352 Clostridium sp. CAG:352,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:352,1,0,0,0
+GU:353 Ruminococcus sp. CAG:353,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:353,86,531,1,10
+GU:354 Clostridium sp. CAG:354,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:354,243,16,1242,4
+GU:356 Clostridium sp. CAG:356,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:356,53,30,2,1
+GU:357 Dialister sp. CAG:357,Firmicutes,Selenomonadales,Veillonellaceae,Dialister,GU:357,74,1602,7527,309
+GU:358 Erysipelotrichaceae,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,,GU:358,0,1,0,2
+GU:359 Butyricimonas,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas,GU:359,52,535,282,372
+GU:36 Eubacterium rectale,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:36,11186,4548,4478,11042
+GU:360 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:360,0,0,5,4
+GU:361 Burkholderiales,Proteobacteria,Burkholderiales,,,GU:361,0,1,0,69
+GU:362 Bacteroidales,Bacteroidetes,Bacteroidales,,,GU:362,131,233,4,2
+GU:363 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:363,5,96,1,13
+GU:364 Blautia hansenii,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:364,31,0,0,0
+GU:365 Firmicutes,Firmicutes,,,,GU:365,1,23,1,3
+GU:366 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:366,2,77,16,24
+GU:367 Lactobacillus ruminis,Firmicutes,Lactobacillales,Lactobacillaceae,Lactobacillus,GU:367,43,43,6,175
+GU:368 Eggerthella sp. CAG:368,Actinobacteria,Eggerthellales,Eggerthellaceae,Eggerthella,GU:368,54,4,0,0
+GU:369 NA,,,,,GU:369,3,101,1,2
+GU:37 Blautia sp. CAG:37,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:37,1738,1452,628,1160
+GU:371 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:371,49,13,0,20
+GU:372 NA,,,,,GU:372,74,0,1,3
+GU:373 Coprococcus sp.x5,Firmicutes,Clostridiales,Lachnospiraceae,Coprococcus,GU:373,1,0,0,6
+GU:374 Butyricimonas,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Butyricimonas,GU:374,61,89,124,21
+GU:375 Eubacterium dolichum,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,unclassified Erysipelotrichaceae,GU:375,1,1,0,0
+GU:377 Megamonas funiformis,Firmicutes,Selenomonadales,Veillonellaceae,Megamonas,GU:377,8,3,152,16
+GU:378 Clostridiales,Firmicutes,Clostridiales,,,GU:378,0,0,0,0
+GU:379 Ruminococcus champanellensis,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:379,0,4,0,0
+GU:38 Eubacterium sp. CAG:38,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:38,158,637,232,518
+GU:380 Roseburia sp. CAG:380,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:380,1,188,312,1
+GU:381 Burkholderiales,Proteobacteria,Burkholderiales,,,GU:381,0,111,1,5
+GU:382 Ruminococcus sp. CAG:382,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:382,79,73,0,0
+GU:383 Coriobacteriia,Actinobacteria,,,,GU:383,1,1,0,0
+GU:384 NA,,,,,GU:384,0,1,0,22
+GU:385 NA,,,,,GU:385,87,47,1,3
+GU:386 Prevotella sp. CAG:386,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:386,5965,3528,2275,3417
+GU:387 Mitsuokella jalaludinii,Firmicutes,Selenomonadales,Veillonellaceae,Mitsuokella,GU:387,28,502,3,352
+GU:389 Clostridium sp. CAG:389,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:389,0,30,1,0
+GU:39 Ruminococcus obeum,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:39,485,1044,251,204
+GU:390 Anaerotruncus sp. CAG:390,Firmicutes,Clostridiales,Ruminococcaceae,Anaerotruncus,GU:390,56,0,78,0
+GU:391 NA,,,,,GU:391,2,3,0,71
+GU:392 NA,,,,,GU:392,5,7,37,0
+GU:393 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:393,0,0,0,0
+GU:394 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:394,4,592,133,4
+GU:396 Ruminiclostridium,Firmicutes,Clostridiales,Ruminococcaceae,Ruminiclostridium,GU:396,0,2,0,2
+GU:397 Sutterella sp. CAG:397,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:397,70,1,1881,310
+GU:398 Enorma massiliensis,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Enorma,GU:398,7,0,0,0
+GU:399 Firmicutes,Firmicutes,,,,GU:399,0,0,0,0
+GU:4 Escherichia coli,Proteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia,GU:4,36,43,25,260
+GU:40 Bacteroides thetaiotaomicron,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:40,291,535,583,1405
+GU:400 Clostridiales,Firmicutes,Clostridiales,,,GU:400,82,45,30,53
+GU:401 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:401,427,334,523,350
+GU:402 Ruminococcus,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:402,34,9,92,38
+GU:403 Ruminococcus sp. CAG:403,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:403,1,94,39,0
+GU:404 NA,,,,,GU:404,0,2,0,5
+GU:405 Enterobacter hormaechei,Proteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,GU:405,0,0,9,0
+GU:406 NA,,,,,GU:406,0,2,1,8
+GU:407 Firmicutes,Firmicutes,,,,GU:407,73,72,54,29
+GU:408 Clostridiales,Firmicutes,Clostridiales,,,GU:408,0,0,0,0
+GU:409 Parabacteroides sp. CAG:409,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:409,7,27,1,1
+GU:41 Firmicutes bacterium CAG:41,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:41,225,475,472,438
+GU:410 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:410,0,0,0,0
+GU:411 Clostridium sp. CAG:411,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:411,0,0,0,0
+GU:412 Gordonibacter pamelaeae,Actinobacteria,Eggerthellales,Eggerthellaceae,Gordonibacter,GU:412,3,6,2,3
+GU:413 Clostridium sp. CAG:413,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:413,1,285,5,312
+GU:414 Clostridiales bacterium VE202-14,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:414,10,25,1,15
+GU:415 NA,,,,,GU:415,4,0,0,0
+GU:416 NA,,,,,GU:416,7,46,77,4
+GU:417 Clostridium sp. CAG:417 - uncultured Clostridium sp.,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:417,2,434,617,2
+GU:418 Veillonellaceae,Firmicutes,Selenomonadales,Veillonellaceae,,GU:418,32,37,23,215
+GU:42 Dorea longicatena,Firmicutes,Clostridiales,Lachnospiraceae,Dorea,GU:42,2368,1231,1363,1132
+GU:420 uncultured Clostridium sp.,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:420,50,2,0,1
+GU:421 Clostridiales,Firmicutes,Clostridiales,,,GU:421,1,26,0,75
+GU:422 Alistipes,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:422,0,0,71,0
+GU:423 Bacteroides,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:423,2,4,1,3
+GU:424 Firmicutes bacterium CAG:424,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:424,3,0,0,0
+GU:425 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:425,2,204,136,4
+GU:426 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:426,37,66,46,37
+GU:428 Firmicutes,Firmicutes,,,,GU:428,0,10,0,0
+GU:43 Clostridium sp. CAG:43,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:43,1157,1012,462,1096
+GU:430 NA,,,,,GU:430,0,8,0,0
+GU:4300 Prevotella sp. CAG:1058,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:4300,0,0,2,0
+GU:431 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:431,80,110,3,1
+GU:432 NA,,,,,GU:432,141,249,62,3
+GU:433 Clostridium sp. CAG:433,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:433,91,87,787,528
+GU:434 NA,,,,,GU:434,0,0,195,0
+GU:435 Alistipes sp. CAG:435,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:435,981,666,645,5
+GU:436 Clostridiales,Firmicutes,Clostridiales,,,GU:436,1,0,3,3
+GU:437 Bacteroides pectinophilus,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:437,0,0,68,0
+GU:439 Fusobacterium sp. CAG:439,Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium,GU:439,0,0,9,0
+GU:44 uncultured Ruminococcaceae bacterium,Firmicutes,Clostridiales,Ruminococcaceae,environmental samples,GU:44,272,146,210,242
+GU:440 Clostridium sp. CAG:440,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:440,8,369,2,1110
+GU:443 Bacteroides sp. CAG:443,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:443,2,348,0,4
+GU:445 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:445,986,883,8376,2541
+GU:448 Clostridium sp. CAG:448,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:448,0,0,0,0
+GU:449 Firmicutes bacterium CAG:449,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:449,22,38,22,1
+GU:45 Roseburia sp. CAG:45,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:45,1238,3154,1231,274
+GU:450 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:450,194,2630,118,104
+GU:451 Clostridium sp. CAG:451,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:451,462,46,359,65
+GU:452 Clostridium sp. CAG:452,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:452,5,447,2,8
+GU:453 Enterococcus faecium,Firmicutes,Lactobacillales,Enterococcaceae,Enterococcus,GU:453,0,2,1,0
+GU:454 NA,,,,,GU:454,67,21,7,2
+GU:455 Alphaproteobacteria,Proteobacteria,,,,GU:455,0,0,0,0
+GU:456 NA,,,,,GU:456,0,0,0,0
+GU:457 Firmicutes,Firmicutes,,,,GU:457,0,10,2,0
+GU:458 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:458,12,30,12,19
+GU:459 Eggerthellaceae,Actinobacteria,Eggerthellales,Eggerthellaceae,,GU:459,12,15,16,8
+GU:46 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:46,153,225,127,106
+GU:460 Firmicutes bacterium CAG:460,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:460,32,93,14412,187
+GU:461 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:461,12,19,1,0
+GU:462 Bacteroides sp. CAG:462,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:462,0,0,1,0
+GU:463 NA,,,,,GU:463,19,57,21,91
+GU:465 Clostridium sp. CAG:465,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:465,54,241,1,3
+GU:466 Clostridium sp. CAG:505 - Firmicutes bacterium CAG:466,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:466,0,0,4,14
+GU:467 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:467,16,70,71,88
+GU:468 Clostridiales,Firmicutes,Clostridiales,,,GU:468,30,57,48,97
+GU:469 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:469,107,5,2,1
+GU:47 Bacteroides fragilis 1,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:47,1509,68,497,837
+GU:470 Clostridium sp. CAG:470,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:470,39,726,172,27
+GU:471 Roseburia sp. CAG:471,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:471,1,62,113,0
+GU:472 Mycoplasma sp. CAG:472,Tenericutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,GU:472,812,250,795,4
+GU:473 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:473,14,12,0,1
+GU:474 Prevotella sp. CAG:474,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:474,673,29,14,0
+GU:475 Firmicutes bacterium CAG:475,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:475,4,7,1081,1
+GU:476 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:476,19,43,3,100
+GU:477 Anaerotruncus,Firmicutes,Clostridiales,Ruminococcaceae,Anaerotruncus,GU:477,0,1,0,0
+GU:478 Clostridium,Firmicutes,Clostridiales,Clostridiaceae,Clostridium,GU:478,0,2,0,29
+GU:479 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:479,4,3,0,1
+GU:48 Parabacteroides merdae,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:48,1724,1666,2348,2998
+GU:480 NA,,,,,GU:480,2,26,5,19
+GU:481 Desulfovibrio,Proteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,GU:481,94,39,33,1
+GU:483 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:483,0,13,0,2
+GU:484 Brachyspira sp. CAG:484,Spirochaetes,Spirochaetales,Brachyspiraceae,Brachyspira,GU:484,0,0,0,164
+GU:485 Prevotella sp. CAG:485,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:485,0,0,0,0
+GU:486 Dialister sp. CAG:486,Firmicutes,Selenomonadales,Veillonellaceae,Dialister,GU:486,787,1331,318,642
+GU:487 Prevotella sp. CAG:487,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:487,4,68,1014,7
+GU:488 Ruminococcus sp. CAG:488,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:488,390,282,3583,0
+GU:489 Clostridiales,Firmicutes,Clostridiales,,,GU:489,8,16,6,0
+GU:49 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:49,84,156,388,111
+GU:490 NA,,,,,GU:490,0,24,2,0
+GU:491 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:491,7,72,73,206
+GU:492 Clostridium sp. CAG:492,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:492,85,405,3,175
+GU:493 NA,,,,,GU:493,3,100,1,0
+GU:494 Firmicutes,Firmicutes,,,,GU:494,109,108,65,79
+GU:495 Proteobacteria bacterium CAG:495,Proteobacteria,unclassified Proteobacteria,unclassified Proteobacteria,unclassified Proteobacteria,GU:495,2,0,0,33
+GU:496 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:496,4,0,0,0
+GU:497 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:497,4,1,4,1
+GU:498 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:498,9,0,0,1
+GU:499 Alistipes,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:499,1,3,120,0
+GU:5 Flavonifractor plautii,Firmicutes,Clostridiales,unclassified Clostridiales,Flavonifractor,GU:5,29,45,18,66
+GU:50 Eubacterium ramulus,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:50,650,116,194,248
+GU:500 Faecalicoccus pleomorphus,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Faecalicoccus,GU:500,5,13,4,1
+GU:501 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:501,59,2,33,1
+GU:503 Firmicutes,Firmicutes,,,,GU:503,0,0,0,0
+GU:505 Clostridium sp. CAG:505 - Firmicutes bacterium CAG:466,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:505,3,0,78,16
+GU:507 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:507,5,103,9,24
+GU:508 Clostridium sp. CAG:508,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:508,869,418,20,466
+GU:51 Coprobacter fastidiosus,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Coprobacter,GU:51,51,95,786,8
+GU:510 Clostridium sp. CAG:510,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:510,3,1429,1592,3
+GU:511 Clostridium clostridioforme,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:511,6,26,0,25
+GU:512 Dialister succinatiphilus,Firmicutes,Selenomonadales,Veillonellaceae,Dialister,GU:512,221,351,70,647
+GU:514 Alistipes sp. CAG:514,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:514,4,6,3,0
+GU:515 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:515,0,0,33,1
+GU:519 NA,,,,,GU:519,1,4,18,5
+GU:52 Blautia sp. CAG:52,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:52,312,421,410,470
+GU:520 Prevotella sp. CAG:520,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:520,915,157,195,519
+GU:521 Sutterella sp. CAG:521,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:521,0,18,0,0
+GU:522 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,,GU:522,23,93,126,57
+GU:5226 Prevotella sp. CAG:5226,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:5226,187,75,20,0
+GU:524 Clostridium sp. CAG:524,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:524,5,476,2,1417
+GU:525 Clostridiales,Firmicutes,Clostridiales,,,GU:525,0,34,1,57
+GU:528 Anaerotruncus sp. CAG:528,Firmicutes,Clostridiales,Ruminococcaceae,Anaerotruncus,GU:528,0,0,33,0
+GU:529 Sutterella,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:529,25,36,22,301
+GU:53 Alistipes shahii,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:53,188,306,725,577
+GU:530 Bacteroides sp. CAG:530,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:530,0,0,0,0
+GU:531 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:531,40,0,0,0
+GU:532 Porphyromonadaceae,Bacteroidetes,Bacteroidales,Porphyromonadaceae,,GU:532,0,0,0,1
+GU:533 Clostridium sp. CAG:533,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:533,1,266,3,4
+GU:534 Firmicutes bacterium CAG:534,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:534,0,20,0,0
+GU:536 Firmicutes bacterium CAG:536,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:536,1,38,0,0
+GU:538 NA,,,,,GU:538,0,0,0,0
+GU:54 Clostridium,Firmicutes,Clostridiales,Clostridiaceae,Clostridium,GU:54,94,123,144,151
+GU:540 NA,,,,,GU:540,0,0,0,0
+GU:541 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:541,0,1,4030,1
+GU:542 Acidaminococcus sp. CAG:542,Firmicutes,Selenomonadales,Acidaminococcaceae,Acidaminococcus,GU:542,0,4,0,12
+GU:543 Clostridiales,Firmicutes,Clostridiales,,,GU:543,6,2,0,36
+GU:544 Mitsuokella multacida,Firmicutes,Selenomonadales,Veillonellaceae,Mitsuokella,GU:544,1,31,10,14
+GU:545 Bacteroides sp. CAG:545,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:545,3,40,1,0
+GU:546 Acidaminococcus fermentans,Firmicutes,Selenomonadales,Acidaminococcaceae,Acidaminococcus,GU:546,1,63,0,6
+GU:548 NA,,,,,GU:548,28,384,2,0
+GU:55 Ruminococcus torques 2,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:55,593,807,580,507
+GU:550 Parabacteroides,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:550,0,0,0,0
+GU:551 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:551,158,120,567,268
+GU:552 Firmicutes bacterium CAG:552,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:552,0,0,0,6
+GU:553 NA,,,,,GU:553,7,1,0,1617
+GU:554 Flavonifractor,Firmicutes,Clostridiales,unclassified Clostridiales,Flavonifractor,GU:554,0,1,1,3
+GU:555 Firmicutes bacterium CAG:555,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:555,0,0,0,0
+GU:557 Clostridium sp. CAG:557,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:557,37,1,4,0
+GU:558 Bacteroides fragilis 2,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:558,1,2,1,2
+GU:56 Firmicutes bacterium CAG:56,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:56,585,508,668,256
+GU:561 Odoribacter laneus,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Odoribacter,GU:561,0,0,0,27
+GU:562 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:562,2,3,0,0
+GU:563 Ruminococcus sp. CAG:563,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:563,7,5,96,0
+GU:564 Bacteroides intestinalis 1,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:564,25,580,12,4
+GU:565 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:565,1,0,204,0
+GU:566 Clostridiales,Firmicutes,Clostridiales,,,GU:566,37,65,105,96
+GU:567 Clostridium sp. CAG:567,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:567,760,682,21,8
+GU:568 Clostridium sp. CAG:568,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:568,20,4902,6,9
+GU:569 Alistipes,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:569,6,83,126,2
+GU:57 Ruminococcus bicirculans,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:57,4478,1260,923,695
+GU:570 Megasphaera elsdenii,Firmicutes,Selenomonadales,Veillonellaceae,Megasphaera,GU:570,271,52,35,556
+GU:571 Clostridium sp. CAG:571,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:571,1,1,545,0
+GU:572 Firmicutes,Firmicutes,,,,GU:572,0,4,0,0
+GU:573 Megasphaera sp. BL7 & NM10,Firmicutes,Selenomonadales,Veillonellaceae,Megasphaera,GU:573,25,2,3,52
+GU:574 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:574,0,11,1,116
+GU:575 Clostridium sp. CAG:575,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:575,9,1,8,0
+GU:577 Bifidobacterium gallinarum = saeculare = pullorum,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:577,0,0,0,21
+GU:579 Ruminococcus sp. CAG:579,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:579,0,0,0,0
+GU:58 Clostridium sp. CAG:58,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:58,68,13,0,35
+GU:581 Eubacterium sp. CAG:581,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:581,797,0,3,2
+GU:582 Firmicutes bacterium CAG:582,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:582,3,34,211,0
+GU:584 NA,,,,,GU:584,0,0,0,0
+GU:585 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:585,0,1,0,0
+GU:586 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:586,1,0,0,0
+GU:588 Dialister sp. CAG:588,Firmicutes,Selenomonadales,Veillonellaceae,Dialister,GU:588,0,0,2,0
+GU:59 Clostridium bolteae,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:59,42,42,6,43
+GU:590 Clostridium sp. CAG:590,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:590,5,149,1,0
+GU:592 Prevotella sp. CAG:592,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:592,0,40,1,0
+GU:594 Clostridium sp. CAG:594,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:594,2,17,0,0
+GU:595 Blastocystis sp. ST4 (obsolete),unclassified Eukaryota,unclassified Eukaryota,unclassified Eukaryota,Blastocystis,GU:595,12,4,6,405
+GU:596 NA,,,,,GU:596,0,0,0,0
+GU:597 Clostridiales,Firmicutes,Clostridiales,,,GU:597,38,0,0,0
+GU:598 Bacteroides sp. CAG:598,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:598,0,0,0,1
+GU:6 Bacteroides vulgatus,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:6,12398,13310,12527,25942
+GU:60 Ruminococcus sp. CAG:60,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:60,96,38,147,23
+GU:600 NA,,,,,GU:600,1,2,3,0
+GU:601 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:601,0,1,1,0
+GU:603 Eubacterium sp. CAG:603,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:603,0,0,0,0
+GU:6034 NA,,,,,GU:6034,0,0,0,0
+GU:604 Prevotella sp. CAG:604,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:604,1134,544,1133,455
+GU:605 Coprobacillus sp. CAG:605,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,GU:605,0,0,0,0
+GU:608 Clostridiales,Firmicutes,Clostridiales,,,GU:608,0,1,48,0
+GU:609 Clostridium sp. CAG:609,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:609,1,21,6,0
+GU:61 Ruminococcus torques 1,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:61,212,402,402,345
+GU:611 Mycoplasma sp. CAG:611,Tenericutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,GU:611,3,1354,68,16
+GU:612 NA,,,,,GU:612,0,0,0,0
+GU:615 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:615,0,0,0,0
+GU:617 Prevotella sp. CAG:617,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:617,0,0,0,0
+GU:62 Clostridium sp. CAG:62,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:62,326,1259,657,427
+GU:620 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:620,1,2,0,1
+GU:621 Peptostreptococcus anaerobius,Firmicutes,Clostridiales,Peptostreptococcaceae,Peptostreptococcus,GU:621,0,0,0,1
+GU:624 Ruminococcus sp. CAG:624,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:624,0,0,0,0
+GU:625 Bacteroidales,Bacteroidetes,Bacteroidales,,,GU:625,0,35,0,0
+GU:627 NA,,,,,GU:627,0,0,0,0
+GU:628 Clostridium sp. CAG:628,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:628,6,408,1648,442
+GU:629 Prevotella stercorea,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:629,4612,403,64,12
+GU:63 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:63,196,166,152,94
+GU:630 Lactobacillus salivarius,Firmicutes,Lactobacillales,Lactobacillaceae,Lactobacillus,GU:630,0,1,0,1
+GU:631 Firmicutes bacterium CAG:631,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:631,0,0,0,0
+GU:632 Clostridium sp. CAG:632,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:632,0,155,1,0
+GU:633 Bacteroides sp. CAG:633,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:633,1,159,0,1
+GU:634 Klebsiella variicola,Proteobacteria,Enterobacteriales,Enterobacteriaceae,Klebsiella,GU:634,0,0,0,0
+GU:637 NA,,,,,GU:637,0,0,0,0
+GU:64 Clostridium innocuum,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,GU:64,2,2,2,19
+GU:640 Collinsella intestinalis,Actinobacteria,Coriobacteriales,Coriobacteriaceae,Collinsella,GU:640,0,0,0,0
+GU:642 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:642,9,7,32,2
+GU:646 Firmicutes bacterium CAG:646,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:646,0,0,0,0
+GU:649 Fusobacterium nucleatum,Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium,GU:649,0,2,5,1
+GU:65 Firmicutes bacterium CAG:65,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:65,1305,3613,2918,1833
+GU:653 NA,,,,,GU:653,0,0,0,17
+GU:654 NA,,,,,GU:654,39,52,1,16
+GU:658 Bacteroides,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:658,1,1,1,2
+GU:66 Lachnospiraceae,Firmicutes,Clostridiales,Lachnospiraceae,,GU:66,560,304,251,418
+GU:661 Bacteroides sp. CAG:661,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:661,428,2,0,1
+GU:663 Clostridiales,Firmicutes,Clostridiales,,,GU:663,0,0,17,9
+GU:665 Coprococcus eutactus,Firmicutes,Clostridiales,Lachnospiraceae,Coprococcus,GU:665,0,1,259,107
+GU:67 Alistipes putredinis,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:67,925,2497,10693,2150
+GU:671 NA,,,,,GU:671,0,1,1,0
+GU:673 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:673,5,153,4,389
+GU:675 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:675,0,0,0,0
+GU:678 Clostridium sp. CAG:678,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:678,0,0,0,0
+GU:679 Fusobacterium gonidiaformans,Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium,GU:679,0,0,1,0
+GU:68 Alistipes finegoldii,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:68,59,223,332,51
+GU:681 NA,,,,,GU:681,0,97,0,0
+GU:683 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:683,0,0,0,0
+GU:686 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:686,81,280,15,4
+GU:69 Bifidobacterium longum,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,GU:69,342,944,224,425
+GU:691 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:691,0,0,0,0
+GU:692 Parvimonas micra,Firmicutes,Clostridiales,Peptoniphilaceae,Parvimonas,GU:692,1,2,24,2
+GU:695 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:695,1,6,52,1
+GU:696 Barnesiella,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Barnesiella,GU:696,0,0,0,0
+GU:697 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:697,0,0,0,0
+GU:698 Coprobacillus sp. CAG:698,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,GU:698,9,0,0,2284
+GU:699 Sutterella,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:699,0,19,0,0
+GU:7 Clostridium sp. CAG:7,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:7,1427,1254,1194,1014
+GU:70 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:70,1557,207,281,270
+GU:700 Brachyspira aalborgi,Spirochaetes,Spirochaetales,Brachyspiraceae,Brachyspira,GU:700,428,191,33,0
+GU:702 Bacteroides sp. CAG:702,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:702,4,1,606,3
+GU:703 Sutterella,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:703,0,0,0,0
+GU:706 Roseburia,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:706,0,0,0,0
+GU:708 Eubacterium,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:708,555,4,0,7
+GU:709 Bacteroides sp. CAG:709,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:709,0,12,1,0
+GU:71 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:71,235,121,150,53
+GU:710 Clostridium sp. CAG:710,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:710,4,95,1643,42
+GU:713 Firmicutes,Firmicutes,,,,GU:713,0,0,0,0
+GU:714 Bacteroides barnesiae,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:714,597,3,1634,5
+GU:715 Clostridium sp. CAG:715,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:715,1,409,0,165
+GU:716 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:716,1,111,484,2
+GU:719 Lactobacillus acidophilus & amylovorus,Firmicutes,Lactobacillales,Lactobacillaceae,Lactobacillus,GU:719,0,0,0,0
+GU:72 Eubacterium eligens,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:72,2338,6613,2115,2611
+GU:720 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:720,1,11,1,0
+GU:721 Sutterella,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:721,1,132,58,0
+GU:724 Ruminococcus sp. CAG:724,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:724,0,1,267,0
+GU:727 Acidiphilium sp. CAG:727,Proteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,GU:727,2,22,1,0
+GU:729 Clostridium sp. CAG:729,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:729,0,1,0,0
+GU:73 Dorea,Firmicutes,Clostridiales,Lachnospiraceae,Dorea,GU:73,159,65,80,92
+GU:731 NA,,,,,GU:731,0,0,0,1
+GU:732 Prevotella sp. CAG:732,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:732,25,724,104,1
+GU:735 Sutterella,Proteobacteria,Burkholderiales,Sutterellaceae,Sutterella,GU:735,7,0,0,0
+GU:738 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:738,1,33,0,0
+GU:74 Faecalibacterium 5,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:74,259,399,673,892
+GU:747 Roseburia,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:747,0,26,2,0
+GU:75 Clostridium sp. CAG:75,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:75,429,915,368,743
+GU:751 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:751,1,2,0,0
+GU:753 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:753,0,1,0,0
+GU:754 Bacteroides sp. CAG:754,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:754,2,2,4,67
+GU:755 Prevotella sp. CAG:755,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:755,0,0,0,1
+GU:757 NA,,,,,GU:757,0,0,0,0
+GU:76 Eubacterium sp. CAG:76,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:76,2087,755,2216,4037
+GU:760 NA,,,,,GU:760,1,231,15,17
+GU:762 Clostridium sp. CAG:762,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:762,8,1,0,1839
+GU:764 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:764,0,1,6,0
+GU:768 Clostridium sp. CAG:768,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:768,0,1,0,0
+GU:77 Candidatus Alistipes marseilloanorexicus,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:77,60,82,238,68
+GU:770 Bacteroides sp. CAG:770,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:770,568,1,0,1
+GU:776 Mycoplasma sp. CAG:776,Tenericutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,GU:776,0,0,1,0
+GU:777 Succinatimonas sp. CAG:777,Proteobacteria,Aeromonadales,Succinivibrionaceae,Succinatimonas,GU:777,161,2510,108,12776
+GU:78 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:78,250,203,105,249
+GU:780 Clostridium sp. CAG:780,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:780,0,2,0,0
+GU:782 Coprococcus sp. CAG:782,Firmicutes,Clostridiales,Lachnospiraceae,Coprococcus,GU:782,0,475,0,1
+GU:786 Eubacterium sp. CAG:786,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:786,0,0,0,0
+GU:788 Odoribacter sp. CAG:788,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Odoribacter,GU:788,0,0,0,0
+GU:79 Streptococcus salivarius,Firmicutes,Lactobacillales,Streptococcaceae,Streptococcus,GU:79,194,930,276,788
+GU:791 Firmicutes bacterium CAG:791,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:791,0,53,0,0
+GU:793 Clostridium sp. CAG:793,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:793,18,1,2,0
+GU:797 Bacteroides,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:797,2,49,3,1
+GU:798 Clostridium sp. CAG:798,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:798,0,0,8,0
+GU:8 Ruminococcus,Firmicutes,Clostridiales,Ruminococcaceae,Ruminococcus,GU:8,465,632,1343,243
+GU:80 Eubacterium siraeum,Firmicutes,Clostridiales,Ruminococcaceae,Ruminiclostridium,GU:80,109,300,74,2045
+GU:81 butyrate-producing bacterium SS3/4 - Clostridium sp. CAG:81,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:81,317,385,337,236
+GU:811 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:811,0,1,2,1
+GU:813 Clostridium sp. CAG:813,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:813,0,1,0,0
+GU:815 Fusobacterium sp. CAG:815,Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium,GU:815,254,6,1,121
+GU:816 Akkermansia,Verrucomicrobia,Verrucomicrobiales,Verrucomicrobiaceae,Akkermansia,GU:816,0,0,0,0
+GU:82 Faecalibacterium 6,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:82,418,533,459,558
+GU:820 Lachnoclostridium,Firmicutes,Clostridiales,Lachnospiraceae,Lachnoclostridium,GU:820,1,1,0,0
+GU:822 Firmicutes bacterium CAG:822,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:822,0,0,0,0
+GU:826 Coprobacillus sp. CAG:826,Firmicutes,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,GU:826,129,226,0,1653
+GU:83 Firmicutes bacterium CAG:83,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:83,297,411,217,224
+GU:831 Alistipes sp. CAG:831,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:831,0,0,0,0
+GU:836 Prevotella,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:836,63,270,0,0
+GU:84 Alistipes,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:84,11,25,7,1
+GU:841 Eubacterium sp. CAG:841,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:841,10,2151,4,2
+GU:85 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:85,75,226,490,107
+GU:86 Eubacterium sp. CAG:86,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:86,351,265,788,613
+GU:861 NA,,,,,GU:861,15,1078,5,12
+GU:87 Oscillibacter,Firmicutes,Clostridiales,Oscillospiraceae,Oscillibacter,GU:87,125,430,721,241
+GU:873 Prevotella sp. CAG:873,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:873,0,0,0,0
+GU:875 Bacteroides sp. CAG:875,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:875,1,386,10,7
+GU:876 Candidatus Methanomassiliicoccus intestinalis,Euryarchaeota,unclassified Thermoplasmata,Methanomassiliicoccaceae,Methanomassiliicoccus,GU:876,0,0,0,0
+GU:877 Mycoplasma sp. CAG:877,Tenericutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,GU:877,3,1033,4,2
+GU:878 Acholeplasma sp. CAG:878,Tenericutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,GU:878,2,605,0,4
+GU:88 Alistipes indistinctus,Bacteroidetes,Bacteroidales,Rikenellaceae,Alistipes,GU:88,18,22,804,194
+GU:882 Firmicutes bacterium CAG:882,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:882,0,0,0,0
+GU:884 Firmicutes bacterium CAG:884,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:884,0,1,6,6
+GU:89 Eubacterium ventriosum,Firmicutes,Clostridiales,Eubacteriaceae,Eubacterium,GU:89,647,682,492,802
+GU:891 Prevotella sp. CAG:891,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:891,0,1,0,0
+GU:9 Blautia wexlerae,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:9,3102,1983,1089,1710
+GU:90 Blautia sp. KLE 1732,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:90,838,316,549,588
+GU:91 Clostridium sp. CAG:91,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:91,1657,3624,2471,1685
+GU:912 NA,,,,,GU:912,1,0,0,112
+GU:914 Clostridium sp. CAG:914,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:914,0,0,0,0
+GU:916 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:916,0,0,0,0
+GU:917 Acidaminococcus sp. CAG:917,Firmicutes,Selenomonadales,Acidaminococcaceae,Acidaminococcus,GU:917,0,0,0,0
+GU:92 Firmicutes,Firmicutes,,,,GU:92,58,67,157,45
+GU:921 Clostridium sp. CAG:921,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:921,0,0,0,0
+GU:923 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:923,0,0,0,0
+GU:924 Prevotella sp. CAG:924,Bacteroidetes,Bacteroidales,Prevotellaceae,Prevotella,GU:924,1,0,0,0
+GU:927 Bacteroides sp. CAG:927,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:927,2,0,392,2
+GU:929 Parabacteroides,Bacteroidetes,Bacteroidales,Porphyromonadaceae,Parabacteroides,GU:929,3,2,0,1
+GU:93 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:93,89,205,115,63
+GU:933 Veillonella sp. CAG:933,Firmicutes,Selenomonadales,Veillonellaceae,Veillonella,GU:933,0,0,0,0
+GU:938 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:938,0,0,0,0
+GU:94 Firmicutes bacterium CAG:94,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:94,4,42,0,4
+GU:940 NA,,,,,GU:940,8,1,0,0
+GU:944 Roseburia,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:944,0,0,0,0
+GU:945 unclassified Clostridiales,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:945,0,0,1,2
+GU:947 NA,,,,,GU:947,2,75,197,1
+GU:948 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:948,0,0,0,0
+GU:95 Firmicutes bacterium CAG:95,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:95,105,235,228,420
+GU:956 Mycoplasma sp. CAG:956,Tenericutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,GU:956,0,0,0,0
+GU:96 unclassified Firmicutes,Firmicutes,unclassified Firmicutes,unclassified Firmicutes,unclassified Firmicutes,GU:96,48,230,1309,39
+GU:964 Clostridium sp. CAG:964,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:964,0,0,0,0
+GU:967 Clostridium sp. CAG:967,Firmicutes,Clostridiales,unclassified Clostridiales,unclassified Clostridiales,GU:967,0,1,0,0
+GU:97 Faecalibacterium,Firmicutes,Clostridiales,Ruminococcaceae,Faecalibacterium,GU:97,325,401,146,483
+GU:970 NA,,,,,GU:970,0,0,0,0
+GU:977 Acetobacter sp. CAG:977,Proteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,GU:977,0,0,0,0
+GU:98 Bacteroides massiliensis,Bacteroidetes,Bacteroidales,Bacteroidaceae,Bacteroides,GU:98,5011,1584,2354,2803
+GU:983 Blautia,Firmicutes,Clostridiales,Lachnospiraceae,Blautia,GU:983,1,1,0,0
+GU:988 Bacillus sp. CAG:988,Firmicutes,Bacillales,Bacillaceae,Bacillus,GU:988,104,0,0,0
+GU:99 Roseburia,Firmicutes,Clostridiales,Lachnospiraceae,Roseburia,GU:99,43,215,96,56

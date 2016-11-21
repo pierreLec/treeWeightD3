@@ -1,0 +1,10 @@
+dependencies:
+  - name: d3tw
+    version: 3.5.2
+    src: "htmlwidgets/lib/d3tw"
+    script: d3tw.min.js
+  - name: treeWeightD3
+    version: 0.01
+    src: "htmlwidgets/lib/treeWeightD3-0.9"
+    script: treeWeight.js
+    stylesheet: treeWeight.css

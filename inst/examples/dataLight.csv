@@ -1,0 +1,6 @@
+Category,Level1,Level2,Level3,Level4,Level5,Level6,Cond1,Cond2,Cond3,Cond4
+"Mucispirillum","Deferribacteres","Deferribacteres","Deferribacterales","Deferribacteraceae2","a","b",10,850,1277,10
+"Mucispirillum","Deferribacteres","Deferribacteres","Deferribacterales","Deferribacteraceae","c","d",10,850,3277,100
+"Curtobacterium","Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","e","f",1,5,0,100
+"Frigoribacterium","Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","e","h",0,0,9,0
+"Frigoribacterium2","Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","e","h",0,5,0,3
