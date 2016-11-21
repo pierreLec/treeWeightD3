@@ -26,7 +26,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 */
 
 function main(datas,conditions,levels,nodeFind,width,height) {
-    alert("d3tw");
     var m = [20, 120, 20, 120],
         w = 1280 - m[1] - m[3],
         h = 1200 - m[0] - m[2],
