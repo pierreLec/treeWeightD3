@@ -24,7 +24,7 @@ HTMLWidgets.widget({
 
         // if one condition
         if(x.numberConditions == 1){
-            alert("numberConditions == 1");
+            //alert("numberConditions == 1");
             conditions =new Array (x.conditions);
         }
         else{
