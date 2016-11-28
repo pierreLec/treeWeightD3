@@ -20,8 +20,16 @@ HTMLWidgets.widget({
         while (el.firstChild) {
             el.removeChild(el.firstChild);
         }   
+        var conditions;
 
-        var conditions = x.conditions;
+        // if one condition
+        if(x.numberConditions == 1){
+            alert("numberConditions == 1");
+            conditions =new Array (x.conditions);
+        }
+        else{
+            conditions = x.conditions;
+        }
 
         // Create Condition Menu
         var menu = document.createElement("div");

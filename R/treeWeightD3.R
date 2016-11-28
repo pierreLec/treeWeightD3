@@ -12,6 +12,7 @@ treeWeightD3 <- function(message, conditions,levels,nodeFind, width = NULL, heig
 
     message = message,
     conditions = conditions,
+    numberConditions = length(conditions),
     levels = levels,
     nodeFind = nodeFind
   )
