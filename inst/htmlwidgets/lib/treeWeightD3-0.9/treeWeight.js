@@ -169,9 +169,18 @@ function main(datas,conditions,levels,nodeFind,width,height) {
 
     // Initialize the display to show a node
     if (nodeFind !=null){
-        console.log("nodeFind "+nodeFind);
-        //[root].forEach(collapse);
-        find (root, nodeFind);
+
+        
+        console.log(typeof (nodeFind));
+        if (typeof(nodeFind) != "object" ){
+            find (root, nodeFind);
+        }
+        else{
+            for (var i = 0; i < nodeFind.length; i++) {
+                console.log("nodeFind !!!"+nodeFind[i]);
+                find (root, nodeFind[i]);
+            }
+        }
     }
     // Initialize the display to show a few nodes.
     else{
@@ -619,7 +628,9 @@ function main(datas,conditions,levels,nodeFind,width,height) {
                 //if(d.parent != root){
                     d = d.parent;
                     if (d!= root){
-                        click(d);//if found open its parent
+                        //click(d);//if found open its parent
+                        toggleNodes(d);
+
                     }
                 //}   
             }
