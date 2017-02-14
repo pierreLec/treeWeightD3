@@ -18,7 +18,7 @@ Installation
 You can install the treeWeight package from Gitlbas as follows:
 
 ```r
-devtools::install_git("https://gitlab.pasteur.fr/plechat/treeWeightD3.git")
+devtools::install_git("https://github.com/pierreLec/treeWeightD3.git")
 ```
 
 Usage
