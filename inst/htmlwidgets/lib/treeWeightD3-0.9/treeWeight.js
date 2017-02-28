@@ -581,6 +581,17 @@ function main(datas,conditions,levels,nodeFind,width,height) {
         }
     }
 
+    // to not close
+    function toggleNodesToFind(d) {
+        if (d.children) {
+            d._children = d.children;
+            //d.children = null;
+        } else {
+            d.children = d._children;
+            //d._children = null;
+        }
+    }
+
     function toggleButtons(index) {
         d3tw.selectAll(".button").attr("class",function (d,i) { return (i==index) ? "button selected" : "button"; });
         d3tw.selectAll(".tip").attr("class",function (d,i) { return (i==index) ? "tip selected" : "tip";});
@@ -629,7 +640,8 @@ function main(datas,conditions,levels,nodeFind,width,height) {
                     d = d.parent;
                     if (d!= root){
                         //click(d);//if found open its parent
-                        toggleNodes(d);
+                        //toggleNodes(d);
+                        toggleNodesToFind(d);
 
                     }
                 //}   
