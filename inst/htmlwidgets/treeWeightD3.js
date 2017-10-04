@@ -122,20 +122,41 @@ HTMLWidgets.widget({
       
         /*var divtf  = document.createElement("div"); 
         divtf.setAttribute("class","tooltipTail");*/
+        
+        
 
-       
 
         tooltip.appendChild(cadre);
+        var buttonSvgExport = document.createElement("BUTTON");
+        //buttonSvgExport.id ="buttonSvgExport";
+        buttonSvgExport.title="export to SVG";
+        buttonSvgExport.innerText="export to SVG";
+        //buttonSvgExport.setAttribute("align", "right");
+        //buttonSvgExport.setAttribute('class','button');
+        buttonSvgExport.setAttribute('style','background-color: white;color: black;border: 2px solid #e7e7e7;-webkit-transition-duration: 0.4s;transition-duration: 0.4s;');
+        //buttonSvgExport.setAttribute('-webkit-transition-duration',' 0.4s'); /* Safari */
+
+        buttonSvgExport.style.transitionDuration ="0.4s";
+        buttonSvgExport.setAttribute('hover','background-color: #e7e7e7;');
+        //buttonSvgExport.setAttribute("value", "export to SVG");
+        //buttonSvgExport.setAttribute("name", "export to SVG");
+        buttonSvgExport.onclick = function(){initialize()};
+        menu.appendChild(buttonSvgExport);
         //tooltip.appendChild(divtf);
 
         body.appendChild(tooltip);
 
         el.appendChild(body);
         
+
         
         
         
         main(HTMLWidgets.dataframeToD3(x.message),conditions,x.levels,x.nodeFind,width,height);
+
+
+
+
        // main(x);
         //el.innerText = x.message;
         

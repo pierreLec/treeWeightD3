@@ -8,3 +8,7 @@ dependencies:
     src: "htmlwidgets/lib/treeWeightD3-0.9"
     script: treeWeight.js
     stylesheet: treeWeight.css
+  - name: crowbar
+    version: 1
+    src: "htmlwidgets/lib/crowbar"
+    script: svg-crowbar.js
