@@ -12,3 +12,4 @@ dependencies:
     version: 1
     src: "htmlwidgets/lib/crowbar"
     script: svg-crowbar.js
+    
