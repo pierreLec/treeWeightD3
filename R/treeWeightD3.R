@@ -5,7 +5,7 @@
 #' @import htmlwidgets
 #'
 #' @export
-treeWeightD3 <- function(message, conditions,levels,nodeFind, width = NULL, height = NULL) {
+treeWeightD3 <- function(message, conditions,levels,nodeFind, width = NULL, height = NULL,isColorRandom,colorLevel) {
 
   # forward options using x
   x = list(
@@ -14,7 +14,10 @@ treeWeightD3 <- function(message, conditions,levels,nodeFind, width = NULL, heig
     conditions = conditions,
     numberConditions = length(conditions),
     levels = levels,
-    nodeFind = nodeFind
+    nodeFind = nodeFind,
+    isColorRandom = isColorRandom,
+    colorLevel = colorLevel
+
   )
 
   # create widget

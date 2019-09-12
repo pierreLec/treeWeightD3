@@ -34,7 +34,7 @@ levels <- c("Category", "Level1", "Level2", "Level3", "Level4","Level5")
 conditions <- c("COND1","COND2","COND3","COND4")
 
 name <- "Bacteroides"
-treeWeightD3(dat,conditions,levels,nodeFind = name,1000,800)
+treeWeightD3(dat,conditions,levels,nodeFind = name,1000,800,FALSE,1)
 ```
 To open multiple nodes use a vector of nodes name  name <- c("Bacteroides","Eubacterium")
 You can also use the **treeWeightD3** function within [R Markdown](http://rmarkdown.rstudio.com) documents and even within [Shiny](http://shiny.rstudio.com) applications. For example:
@@ -53,7 +53,7 @@ name <- "Bacteroides"
 
 server = function(input, output) {
   output$treeWeightD3 <- renderTreeWeightD3(
-    treeWeightD3(dat,conditions,levels,name,1000,800)
+    treeWeightD3(dat,conditions,levels,name,1000,800,,FALSE,1)
   )
 }
 ui = shinyUI(fluidPage(

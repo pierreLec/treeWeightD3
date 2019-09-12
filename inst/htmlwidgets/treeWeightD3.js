@@ -147,12 +147,10 @@ HTMLWidgets.widget({
         body.appendChild(tooltip);
 
         el.appendChild(body);
-        
-
-        
+    
         
         
-        main(HTMLWidgets.dataframeToD3(x.message),conditions,x.levels,x.nodeFind,width,height);
+        main(HTMLWidgets.dataframeToD3(x.message),conditions,x.levels,x.nodeFind,width,height,x.isColorRandom,x.colorLevel);
 
 
 

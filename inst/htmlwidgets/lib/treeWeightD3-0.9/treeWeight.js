@@ -25,7 +25,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 */
 
-function main(datas,conditions,levels,nodeFind,width,height) {
+function main(datas,conditions,levels,nodeFind,width,height,isColorRandom,colorLevel) {
     var m = [20, 120, 20, 120],
         w = 1280 - m[1] - m[3],
         h = 1200 - m[0] - m[2],
@@ -41,15 +41,21 @@ function main(datas,conditions,levels,nodeFind,width,height) {
     //var sourceFields = ["Category", "Level1", "Level2", "Level3", "Level4"];
     var sourceFields = levels;
     var colors;
-    //if (randomColor != true){
-    var    colors = ["#bd0026", "#fecc5c", "#fd8d3c", "#f03b20", "#B02D5D",
+    console.log("iscolorandom "+isColorRandom);
+    console.log("colorLevel "+colorLevel);
+    
+    if (!isColorRandom){
+        colors = ["#bd0026", "#fecc5c", "#fd8d3c", "#f03b20", "#B02D5D",
         "#9B2C67", "#982B9A", "#692DA7", "#5725AA", "#4823AF",
         "#d7b5d8", "#dd1c77", "#5A0C7A", "#5A0C7A"];
-    /*else{
+    }
+    else{
+
         colors = [getRandomColor(), getRandomColor(), getRandomColor(), getRandomColor(), getRandomColor(), getRandomColor(),
         getRandomColor(), getRandomColor(), getRandomColor(),getRandomColor(), getRandomColor(),
          getRandomColor(), getRandomColor(), getRandomColor()];
-    }*/
+    }
+    
 
     function getRandomColor() {
         var letters = '0123456789ABCDEF';
@@ -312,8 +318,10 @@ function main(datas,conditions,levels,nodeFind,width,height) {
         nodes.forEach(function (d) {
             d.y = d.depth * 180;
             d.numChildren = (d.children) ? d.children.length : 0;
-            if (d.depth == 1) {
+            if (d.depth == colorLevel) {
+            
                 d.linkColor = colors[(depthCounter % (colors.length - 1))];
+                
                 depthCounter++;
             }
             if (d.numChildren == 0 && d._children) d.numChildren = d._children.length;
@@ -323,7 +331,7 @@ function main(datas,conditions,levels,nodeFind,width,height) {
         //Set link colors based on parent color
         nodes.forEach(function (d) {
             var obj = d;
-            while ((obj.source && obj.source.depth > 1) || obj.depth > 1) {
+            while ((obj.source && obj.source.depth > colorLevel) || obj.depth > colorLevel) {
                 obj = (obj.source) ? obj.source.parent : obj.parent;
             }
             d.linkColor = (obj.source) ? obj.source.linkColor : obj.linkColor;
